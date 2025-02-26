@@ -1,0 +1,3 @@
+package simulora;
+
+@license(LGPL);
